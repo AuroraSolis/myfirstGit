@@ -54,7 +54,7 @@ Aprueba revisiones del código de forma más eficiente mediante solicitudes de i
 
 GitKraken es una potente y elegante interfaz gráfica multiplataforma para git desarrollada con Electron. De forma muy sencilla podemos llevar el completo seguimiento de nuestros repositorios, ver ramas, tags, crear nuevos, todo el historial de nuestro trabajo, commits etcétera.
 
-## Markdown
+## ¿Qué es Markdown?
 
 Markdown es una forma sencilla de agregar formato a textos web.Fue creado originalmente por John Gruber, con ayuda de Aaron Swartz, con el propósito de crear un texto plano fácil de escribir y fácil de leer, y que pudiera convertirse de forma sencilla y válida a XHTML.
 
